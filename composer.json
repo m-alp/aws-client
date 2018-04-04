@@ -1,0 +1,13 @@
+{
+    "name": "miguel.alpendre/aws-client",
+    "description": "AWS CLient in PHP",
+    "require": {
+        "aws/aws-sdk-php": "^3.53"
+    },
+    "authors": [
+        {
+            "name": "Miguel Alpendre",
+            "email": "miguel.alpendre@olx.com"
+        }
+    ]
+}
